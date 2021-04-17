@@ -9,20 +9,20 @@
 
 # How to run or use
 1. this project clone to your local
-```shell
-git clone 
-cd shorteningurl
-```
+    ```shell
+    git clone 
+    cd shorteningurl
+    ```
 
 2. if you want to run the tests
-```shell
-./gradlew clean test
-```
+    ```shell
+    ./gradlew clean test
+    ```
 
 3. application build and run in your local (dev mode)
-```shell
-./gradlew bootRun
-```
+    ```shell
+    ./gradlew bootRun
+    ```
 
 4. request to shorten url (application must be running)
    
@@ -39,7 +39,7 @@ cd shorteningurl
 
 5. request to unshorten url (application must be running and have shortenedURL)
 
-`Enter the shortenedURL in your browser`
+    `Enter the shortenedURL in your browser`
 
 
 
