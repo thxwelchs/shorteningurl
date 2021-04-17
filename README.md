@@ -12,7 +12,7 @@
 - [x] 동일한 URL에 대한 요청 수 정보를 가져야 한다(화면 제공 필수 아님)
 - [x] Shortening된 URL을 요청받으면 원래 URL로 리다이렉트 합니다.
 
-# How to run or use
+# How to run and use
 1. this project clone to your local
     ```shell
     git clone 
