@@ -1,5 +1,10 @@
 # URL Shortening Service
 
+### 개발환경
+- Language: `Java 11(adopt-openjdk-11)`
+- Framework: `Spring Boot 2.4.4`
+- build: `gradle 6.8.3(wrapper)`
+
 ### 구현 리스트
 - [x] URL 입력폼 제공 및 결과 출력
 - [x] URL Shortening Key는 8 Character 이내로 생성되어야 합니다.
