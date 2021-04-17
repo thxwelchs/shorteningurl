@@ -25,6 +25,7 @@ cd shorteningurl
 ```
 
 4. request to shorten url (application must be running)
+   
     __default port__: `8082`\
     __http method__: `POST`\
     __http header Content-type__: `application/json`\
