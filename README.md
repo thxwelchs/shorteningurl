@@ -15,7 +15,7 @@
 # How to run and use
 1. this project clone to your local
     ```shell
-    git clone 
+    git clone https://github.com/thxwelchs/shorteningurl.git
     cd shorteningurl
     ```
 
